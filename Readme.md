@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- ⚡ Fun fact **I am a lerner**
+- ⚡ Fun fact **I have no heaters**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
