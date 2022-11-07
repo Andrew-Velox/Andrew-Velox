@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrew-Velox" />
-  <a href="https://github.com/Andrew-Velox"><img src="https://img.shields.io/github/followers/g4rzk?label=followers&style=social"/></a>
+  <a href="https://github.com/Andrew-Velox"><img src="https://img.shields.io/github/followers/Andrew-Velox?label=followers&style=social"/></a>
   </a>
 </p>
 
