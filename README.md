@@ -1,4 +1,4 @@
-[![g4rzk's header](https://i.postimg.cc/x1F35Sc1/Kaneki-Ken-full-3157977.gif)](https://fb.me/V3L0X.ME)
+[![Andrew-Velox's header](https://github.com/Andrew-Velox/Andrew-Velox/blob/main/Kaneki.Ken.full.3157977.gif)](https://fb.me/V3L0X.ME)
 
 <p align=center>
   <a href="https://facebook.com/V3L0X.ME"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
@@ -14,10 +14,10 @@
 ### About Me
 
  - 👨‍🦱 My name is `Andrew Velox `
- - 🏠 Live in `Rajshasi, Bangladesh `
+ - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
  - 🌐 Language
-   - 🇧🇩 Bangladeshi
+   - 🇧🇩 Bangla
    - 🇺🇲 English
    - 🇸🇦 Arabic
 
