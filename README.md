@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### About Me
+### 🤠 About Me :
 
  - 👨‍🦱 My name is `Andrew Velox `
  - 🏠 Live in `Dhaka, Bangladesh `
@@ -21,7 +21,7 @@
    - 🇺🇲 English
    - 🇸🇦 Arabic
 
-### Basic Experience
+### ⚔️ Basic Experience :
 
 <span>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -32,7 +32,10 @@
 
 </span>
 
-### Stats
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+### 🏆 Stats :
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
