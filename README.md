@@ -16,6 +16,7 @@
  - 👨‍🦱 My name is `Andrew Velox `
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
+ - 💙 Love `Watching Anime, Sleeping`
  - 🌐 Language
    - 🇧🇩 Bangla
    - 🇺🇲 English
