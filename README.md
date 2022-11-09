@@ -14,6 +14,7 @@
 ### 🤠 About Me :
 
  - 👨‍🦱 My name is `Andrew Velox `
+ - 🕋 My Religion `Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
  - 💙 Love `Watching Anime, Sleeping`
