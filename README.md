@@ -17,7 +17,7 @@
  - 🕋 My Religion `Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love `Watching Anime, Sleeping`
+ - 💙 Love to `Watching Anime, Sleeping`
  - 🌐 Language
    - 🇧🇩 Bangla
    - 🇺🇲 English
