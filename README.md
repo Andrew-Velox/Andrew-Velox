@@ -59,7 +59,7 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-### 📊 Stats :
+### <h2> <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" height="40" align=center> Stats : </h2>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&hide=issues&count_private=true&border_radius=20" />
