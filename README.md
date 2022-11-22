@@ -44,9 +44,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia&border_radius=20" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Velox&langs_count=10&theme=algolia&layout=compact&border_radius=20" />
 </p>
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Andrew_Velox </h1>
-
-![github_cover_banner](https://user-images.githubus7ercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Hello👋! I like to present myself as VELOX, I am a Passionate, Web developer and computer science student. I love learning new programming languages and technologies. I also love to play games & watching cartoons.
