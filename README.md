@@ -40,7 +40,7 @@
 ### 🏆 Stats :
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Velox&langs_count=10&theme=algolia&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=20" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia&border_radius=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Velox&langs_count=10&theme=algolia&layout=compact&border_radius=20" />
 </p>
