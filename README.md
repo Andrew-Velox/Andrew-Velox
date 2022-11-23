@@ -61,6 +61,8 @@
 
 ### <h2> <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" height="40" align=center> Stats : </h2>
 
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&hide=issues&count_private=true&border_radius=20" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia&border_radius=20" />
