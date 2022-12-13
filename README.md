@@ -69,5 +69,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Andrew-Velox&show_icons=true&theme=algolia&count_private=true&border_color=58a5fe&border_radius=20" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia&border=58a5fe&border_radius=20" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Velox&langs_count=10&hide=javaScript&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Velox&langs_count=5&hide=javaScript&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20" />
 </p>
