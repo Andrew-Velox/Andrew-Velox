@@ -1,4 +1,8 @@
-[![Andrew-Velox's header](https://github.com/Andrew-Velox/Andrew-Velox/blob/main/Kaneki.Ken.full.3157977.gif)](https://fb.me/V3L0X.ME)
+<div align="center">
+  <a href="https://fb.me/V3L0X.ME">
+    <img src="https://github.com/Andrew-Velox/Andrew-Velox/blob/main/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
+  </a>
+</div>
 
 <p align=center>
   <a href="https://facebook.com/V3L0X.ME"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
