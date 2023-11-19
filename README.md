@@ -17,11 +17,11 @@
 
 ### 🤠 About Me :
 
- - 👨‍🦱 My name is `Andrew Velox `
+ - 👨‍🦱 My Sussy name is ` Andrew Velox `
  - 🕋 My Religion `🤍 Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `Watching Anime`
+ - 💙 Love to `Ignoring All`
  - 🌐 Language
    - 🇧🇩 Bangla
    - 🇺🇲 English
