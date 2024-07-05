@@ -21,7 +21,7 @@
  - 🕋 My Religion `🤍 Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `Ignoring All`
+ - 💙 Love to `Ignoring You`
  - 🌐 Language
    - 🇧🇩 Bangla
    - 🇺🇲 English
@@ -44,8 +44,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
- <!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img  alt="Java" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>    
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -56,9 +56,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img alt="cplusplus" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img  alt="GoogleCloud" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
+  </a> -->
 </div>
 
 </span>
