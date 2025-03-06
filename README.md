@@ -5,10 +5,11 @@
 </div>
 <br>
 <p align=center>
-  <a href="https://facebook.com/V3L0X.ME" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo"></a>&nbsp;
-  <a href="https://instagram.com/andrew_velox" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-  <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp;
-<!-- <a href="https://www.linkedin.com/in/mohabbat69/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp; -->
+  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo"></a>&nbsp;
+  <a href="https://instagram.com/andrew_velox" onclick="window.open(this.href, '_blank'); return false;">
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+<!--   <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp; -->
+<a href="https://www.linkedin.com/in/mohabbat69/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrew-Velox" />
