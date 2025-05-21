@@ -53,7 +53,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </a>
-  
+  <a href="https://www.php.com/" target="_blank" rel="noreferrer">
+    <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  </a>
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>    
