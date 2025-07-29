@@ -78,7 +78,7 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a>
 
-### <h2> <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" height="40" align=center> Stats : </h2>
+### <h2> <img src="./assets/fire.gif" width="20"  align=center> Stats : </h2>
 
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
