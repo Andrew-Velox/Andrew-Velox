@@ -9,7 +9,7 @@
   <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 <!--   <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/mohabbat69/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrew-Velox" />
@@ -37,7 +37,11 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+	
+![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,python,html,css,js,php,django,docker,figma,git,github,githubactions,gitlab,java,linux,mysql,netlify,nextjs,react,nodejs,postgres,sqlite)
+
+	
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
@@ -49,14 +53,14 @@
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  </a>
+  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </a>
+  </a> 
   <a href="https://www.php.com/" target="_blank" rel="noreferrer">
     <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  </a>
- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>    
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -68,7 +72,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img alt="cplusplus" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   </a>
-<!--   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+ <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img  alt="GoogleCloud" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
   </a> -->
 </div>
@@ -87,3 +91,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Velox&count_private=true&theme=algolia&border=58a5fe&border_radius=20" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Velox&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20" />
 </p>
+
+
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-velox&theme=algolia&border=58a5fe&border_radius=20" />
+
+
+</div>
+
