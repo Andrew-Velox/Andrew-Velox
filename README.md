@@ -94,7 +94,7 @@
 
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-velox&theme=algolia&border=58a5fe&border_radius=20" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrew-Velox&theme=algolia&border=58a5fe&border_radius=20" />
 
 
 </div>
