@@ -89,7 +89,7 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&count_private=true&border_color=58a5fe&border_radius=20" />
+    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=58a5fe&border_radius=20" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
     <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=algolia&border=58a5fe&border_radius=20" />
