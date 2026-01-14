@@ -19,7 +19,7 @@
 
 ### 🤠 About Me :
 
- - 👨‍🦱 My Sussy name is ` V3L0X `
+ - 👨‍🦱 My Sussy name is ` V3L0X`
  - 🕋 My Religion `🤍 Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
