@@ -98,7 +98,7 @@
   <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api/top-langs/?username=Andrew-Velox&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20" />
+    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api/top-langs/?username=Andrew-Velox&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20&hide=Jupyter%20Notebook" />
   </a>
 
 </div>
