@@ -19,7 +19,7 @@
 
 ### 🤠 About Me :
 
- - 👨‍🦱 My name is ` Mohabbat`
+ - 👨‍🦱 My name is `Mohabbat`
  - 🕋 My Religion `🤍 Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
