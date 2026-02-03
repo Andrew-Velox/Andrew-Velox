@@ -23,7 +23,7 @@
  - 🕋 My Religion `🤍 Islam 🤍`
  - 🏠 Live in `Dhaka, Bangladesh `
  - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `Dive`
+ - 💙 Love to `be Alone`
  - 🌐 Language
    - 🇧🇩 Bangla
    - 🇺🇲 English
