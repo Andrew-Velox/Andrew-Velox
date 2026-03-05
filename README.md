@@ -79,6 +79,15 @@
 
 </span>
 
+### ⌨️ Codeforces Stats
+<div align="center">
+
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=default)](https://codeforces.com/profile/yalniz)
+<br>
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=default)](https://codeforces.com/profile/yalniz)
+
+</div>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a>
 
