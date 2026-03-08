@@ -85,7 +85,7 @@
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
 <br>
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=default)](https://codeforces.com/profile/yalniz)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
 
 </div>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
