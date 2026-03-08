@@ -118,7 +118,7 @@
 </span>
 
 <div align="center">
-<h2 align="center">💻 Competitive programming</h2>
+<h2 align="center">💻 Competitive programming 💻</h2>
 <br/>
 
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
@@ -131,7 +131,7 @@
 <a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a> -->
 <div align=center>
 <hr/>
-<h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2>
+<h2> <img src="./assets/fire.gif" width="20" align=center> Github Stats <img src="./assets/fire.gif" width="20" align=center></h2>
 <br/>
  <!-- <h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2> -->
 
