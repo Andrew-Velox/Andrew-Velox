@@ -29,58 +29,97 @@
    - 🇺🇲 English
    - 🇸🇦 Arabic
 
-### ⚔️ Basic Experience :
+<hr/>
+<h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
+<br/>
 
-<span>
-	   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+	<td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+	<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    
+  </tr>
+
+  <tr>
+	  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+    </td> 
+	 <td align="center" width="96">
+		<img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+	</td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
+    </td>
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+	</td>
+	<td align="center" width="96">
+	    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
+	</td>
+  </tr>
+ <tr>     
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+	</td>
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+	</td>
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+	</td>
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+	</td>
+	<td align="center" width="96">
+	    <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
+	</td>
+</tr>
+</table>
+</table>
+
+<br/>
+ <hr/>
+
 	
-![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,python,html,css,js,php,django,docker,figma,git,github,githubactions,gitlab,java,linux,mysql,netlify,nextjs,react,nodejs,postgres,sqlite)
-
-	
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </a> 
-  <a href="https://www.php.com/" target="_blank" rel="noreferrer">
-    <img alt="SQL" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img alt="cplusplus" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  </a>
- <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a> -->
 </div>
 
 </span>
 
-### ⌨️ Codeforces Stats
 <div align="center">
+<h2 align="center">💻 Competitive programming</h2>
+<br/>
 
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
 <br>
@@ -88,10 +127,13 @@
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
 
 </div>
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a>
-
-### <h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2>
+<!-- <h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a> -->
+<div align=center>
+<hr/>
+<h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2>
+<br/>
+ <!-- <h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2> -->
 
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
@@ -115,6 +157,6 @@
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrew-Velox&theme=algolia&border=58a5fe&border_radius=20" />
 
-
+</div>
 </div>
 
