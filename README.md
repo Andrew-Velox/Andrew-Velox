@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.facebook.com/mohabbat404">
-    <img src="https://github.com/Andrew-Velox/Andrew-Velox/blob/main/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
+    <img src="assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
   </a>
 </div>
 <br>
@@ -110,7 +110,7 @@
 </table>
 
 <br/>
- <hr/>
+<hr/>
 
 	
 </div>
@@ -155,13 +155,12 @@
 </div>
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrew-Velox&theme=algolia&border=58a5fe&border_radius=20" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrew-Velox&theme=algolia&border=58a5fe&border_radius=20" />
 
 </div>
-</div>
-
-<p align="center">
-    <img src="imgs/fire.gif" alt="fire"  width="350" height="250"/>
-</p>
 
 <h4 align="center">Made with <img src="assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
+</div>
+
+
+
