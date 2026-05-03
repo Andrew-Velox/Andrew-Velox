@@ -57,13 +57,13 @@
 	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-    </td>
     
   </tr>
 
   <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+    </td>
 	  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
     </td>
@@ -82,14 +82,14 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
     </td>
+  </tr>
+ <tr>     
 	<td align="center" width="96">
 	    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
 	</td>
 	<td align="center" width="96">
 	    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
 	</td>
-  </tr>
- <tr>     
 	<td align="center" width="96">
 	    <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
 	</td>
