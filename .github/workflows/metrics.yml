@@ -1,50 +1,85 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each day)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
+    # Schedule updates (each day)
+    schedule: [{cron: "0 0 * * *"}] # Lines below let you run workflow manually and on each commit
+    workflow_dispatch:
+    push:
+        branches: [main]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - public_repo
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+    permissions:
+      contents: write
 
-          # Options
-          user: Andrew-Velox
-          template: classic
-          base: header, activity, repositories
-          config_timezone: Asia/Dhaka
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_lines: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_pinned: 6
-          plugin_repositories_starred: 4
-          plugin_repositories_forks: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
+    steps:
+        - name: Stats & Languages
+          uses: lowlighter/metrics@latest
+          with:
+            # Your GitHub token
+            # The following scopes are required:
+            #  - public_access (default scope)
+            #  - public_repo
+            # The following additional scopes may be required:
+            #  - read:org  (for organization related metrics)
+            #  - read:user (for user related data)
+            #  - repo      (optional, if you want to include private repositories)
+            token: ${{ secrets.METRICS_TOKEN }}
+            filename: .github/assets/metrics-stats.svg
+            base: header, activity, community, repositories
+            plugin_languages: yes
+            plugin_languages_limit: 10
+            plugin_languages_details: percentage
+            plugin_languages_threshold: 0%
+            plugin_languages_ignored: 
+            config_timezone: Asia/Ho_Chi_Minh
+
+        - name: Activity Calendar
+          uses: lowlighter/metrics@latest
+          with:
+            token: ${{ secrets.METRICS_TOKEN }}
+            filename: .github/assets/metrics-activity.svg
+            base: ""
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
+            config_timezone: Asia/Ho_Chi_Minh
+        
+    #   - uses: lowlighter/metrics@latest
+    #     with:
+    #       # Your GitHub token
+    #       # The following scopes are required:
+    #       #  - public_access (default scope)
+    #       #  - public_repo
+    #       # The following additional scopes may be required:
+    #       #  - read:org  (for organization related metrics)
+    #       #  - read:user (for user related data)
+    #       #  - repo      (optional, if you want to include private repositories)
+    #       token: ${{ secrets.METRICS_TOKEN }}
+
+    #       # Options
+    #       user: Andrew-Velox
+    #       template: classic
+    #       base: header, activity, repositories
+    #       config_timezone: Asia/Dhaka
+    #       plugin_activity: yes
+    #       plugin_activity_days: 14
+    #       plugin_activity_filter: all
+    #       plugin_activity_limit: 5
+    #       plugin_activity_load: 300
+    #       plugin_activity_visibility: all
+    #       plugin_followup: yes
+    #       plugin_followup_sections: repositories
+    #       plugin_introduction: yes
+    #       plugin_introduction_title: yes
+    #       plugin_lines: yes
+    #       plugin_people: yes
+    #       plugin_people_limit: 24
+    #       plugin_people_size: 28
+    #       plugin_people_types: followers, following
+    #       plugin_repositories: yes
+    #       plugin_repositories_affiliations: owner
+    #       plugin_repositories_pinned: 6
+    #       plugin_repositories_starred: 4
+    #       plugin_repositories_forks: yes
+    #       plugin_stars: yes
+    #       plugin_stars_limit: 4
