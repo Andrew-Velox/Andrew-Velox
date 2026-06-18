@@ -17,8 +17,22 @@
   </a>
 </p>
 <p align="center">
-	<img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
 </p>
+
+
+
+
+<!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
+
+<p align="center">
+  <br/><br/>
+	<img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <!-- <img src='https://counter.seku.su/cmoe?name=fumiama&theme=r34' width="400px"> -->
+  <img src=".github/assets/stats.svg" width="400px"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" />
+</p>
+
+<br/><br/>
 
 ### 🤠 About Me :
 
@@ -143,10 +157,10 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_color=58a5fe&border_radius=20" />
+    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=algolia&border=58a5fe&border_radius=20" />
+    <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&border=58a5fe&border_radius=20" />
   </a>
 
   <br/>
