@@ -26,7 +26,7 @@
 
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
-<img align='right' src='.github/assets/gojo.gif' height='680px'>
+<img align='right' src='.github/assets/gojo.gif' height='980px'>
 
 <p align="center">
   <br/><br/>
@@ -34,6 +34,8 @@
   <img src=".github/assets/stats.svg" width="400px"/>
   <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple" width="400px"/>
   <img width="400px" src=".github/assets/metrics-stats.svg" />
+  
+  <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
 <br/><br/>
