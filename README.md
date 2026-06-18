@@ -22,16 +22,15 @@
 <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" alt="Lien Hoa Thuan typing animation" />
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
 </picture>
 
-<br />
 
 <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
-<a href="https://www.linkedin.com/in/lianharman/">
+<a href="https://www.linkedin.com/in/mohabbatvlx/">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
@@ -39,7 +38,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://discord.com/users/983724520789655613">
+<a href="https://discord.com/users/mohabbat_v3">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Discord-ffffff?style=flat-square&logo=discord&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
@@ -47,7 +46,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@LienThuan04">
+<a href="https://www.youtube.com/@Veloxofcl">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
@@ -55,7 +54,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.facebook.com/LianHarman/">
+<a href="https://www.facebook.com/mohabbat404">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
@@ -63,41 +62,34 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://gitlab.com/LienThuan04">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/GitLab-ffffff?style=flat-square&logo=gitlab&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitLab-171717?style=flat-square&logo=gitlab&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/GitLab-171717?style=flat-square&logo=gitlab&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp;
-<a href="mailto:lienthuan2004@gmail.com">
+<a href="mailto:mohabbat.bd2020@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
   </picture>
 </a>
-  <div align="center">
+
+  <!-- <div align="center">
   <a href="https://www.facebook.com/mohabbat404">
     <img src=".github/assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
   </a>
-</div>
-<br>
+</div> -->
+<!-- <br>
 <p align=center>
   <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo"></a>&nbsp;
   <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp; -->
 <!--   <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-</p>
-<p align="center">
+<!-- <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+</p> -->
+<!-- <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrew-Velox" />
   <a href="https://github.com/Andrew-Velox"><img src="https://img.shields.io/github/followers/Andrew-Velox?label=followers&style=social"/></a>
-  </a>
-</p>
+  </a> -->
+<!-- </p>
 <p align="center">
-</p>
+</p> -->
 
 </div>
 
