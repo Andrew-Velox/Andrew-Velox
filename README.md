@@ -16,6 +16,9 @@
   <a href="https://github.com/Andrew-Velox"><img src="https://img.shields.io/github/followers/Andrew-Velox?label=followers&style=social"/></a>
   </a>
 </p>
+<p align="center">
+	<img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+</p>
 
 ### 🤠 About Me :
 
