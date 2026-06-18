@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.facebook.com/mohabbat404">
-    <img src="assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
+    <img src=".github/assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
   </a>
 </div>
 <br>
@@ -134,9 +134,9 @@
 <a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a> -->
 <div align=center>
 <hr/>
-<h2> <img src="./assets/fire.gif" width="20" align=center> Github Stats <img src="./assets/fire.gif" width="20" align=center></h2>
+<h2> <img src=".github/assets/fire.gif" width="20" align=center> Github Stats <img src=".github/assets/fire.gif" width="20" align=center></h2>
 <br/>
- <!-- <h2> <img src="./assets/fire.gif" width="20" align=center> Stats : </h2> -->
+ <!-- <h2> <img src=".github/assets/fire.gif" width="20" align=center> Stats : </h2> -->
 
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
@@ -162,6 +162,6 @@
 
 </div>
 
-<h4 align="center">Made with <img src="assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
+<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
 </div>
 
