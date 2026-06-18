@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome [>_<]</h1>
+  <!-- <h1>Welcome [>_<]</h1> -->
 
   <div align="center">
   <a href="https://www.facebook.com/mohabbat404">
@@ -34,11 +34,9 @@
   <img src=".github/assets/stats.svg" width="400px"/>
   <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple" width="400px"/>
   <img width="400px" src=".github/assets/metrics-stats.svg" />
-  
   <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
-<br/><br/>
 
 <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
