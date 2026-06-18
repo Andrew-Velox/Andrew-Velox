@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: Andrew-Velox
-          template: terminal
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
           plugin_activity: yes
