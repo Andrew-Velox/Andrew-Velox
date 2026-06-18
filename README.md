@@ -1,4 +1,7 @@
 <div align="center">
+  <h1>Welcome [>_<]</h1>
+
+  <div align="center">
   <a href="https://www.facebook.com/mohabbat404">
     <img src=".github/assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
   </a>
@@ -19,32 +22,21 @@
 <p align="center">
 </p>
 
-
+</div>
 
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
+<img align='right' src='.github/assets/gojo.gif' height='680px'>
 
 <p align="center">
   <br/><br/>
-	<img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <!-- <img src='https://counter.seku.su/cmoe?name=fumiama&theme=r34' width="400px"> -->
+  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
   <img src=".github/assets/stats.svg" width="400px"/>
+  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple" width="400px"/>
   <img width="400px" src=".github/assets/metrics-stats.svg" />
 </p>
 
 <br/><br/>
-
-### 🤠 About Me :
-
- - 👨‍🦱 My name is `Mohabbat`
- - 🕋 My Religion `🤍 Islam 🤍`
- - 🏠 Live in `Dhaka, Bangladesh `
- - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `🎮`
- - 🌐 Language
-   - 🇧🇩 Bangla
-   - 🇺🇲 English
-   - 🇸🇦 Arabic
 
 <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
@@ -127,55 +119,27 @@
 </table>
 
 <br/>
-<hr/>
 
 	
 </div>
 
-</span>
+<br/><br/>
+
+
+---
 
 <div align="center">
 <h2 align="center">💻 Competitive programming 💻</h2>
 <br/>
 
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=radical)](https://codeforces.com/profile/yalniz)
 <br>
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=solarized_dark)](https://codeforces.com/profile/yalniz)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
 
 </div>
-<!-- <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Andrew-Velox"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Andrew-Velox&theme=radical"/></a> -->
-<div align=center>
+
+
 <hr/>
-<h2> <img src=".github/assets/fire.gif" width="20" align=center> Github Stats <img src=".github/assets/fire.gif" width="20" align=center></h2>
-<br/>
- <!-- <h2> <img src=".github/assets/fire.gif" width="20" align=center> Stats : </h2> -->
-
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api?username=Andrew-Velox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&border=58a5fe&border_radius=20" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats-silk-six-69.vercel.app/api/top-langs/?username=Andrew-Velox&show_icons=true&theme=algolia&layout=compact&border_color=58a5fe&border_radius=20&hide=Jupyter%20Notebook" />
-  </a>
-
-</div>
-
-<div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrew-Velox&theme=algolia&border=58a5fe&border_radius=20" />
-
-</div>
 
 <h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
-</div>
-
