@@ -4,8 +4,8 @@ on:
     # Schedule updates (each day)
     schedule: [{cron: "0 0 * * *"}] # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
-    push:
-        branches: [main]
+    # push:
+    #     branches: [main]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -32,7 +32,7 @@ jobs:
             plugin_languages_details: percentage
             plugin_languages_threshold: 0%
             plugin_languages_ignored: 
-            config_timezone: Asia/Ho_Chi_Minh
+            config_timezone: Asia/Dhaka
 
         - name: Activity Calendar
           uses: lowlighter/metrics@latest
@@ -42,7 +42,7 @@ jobs:
             base: ""
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
-            config_timezone: Asia/Ho_Chi_Minh
+            config_timezone: Asia/Dhaka
         
     #   - uses: lowlighter/metrics@latest
     #     with:
