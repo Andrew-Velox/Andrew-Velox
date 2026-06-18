@@ -24,7 +24,7 @@ jobs:
           # Options
           user: Andrew-Velox
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           config_timezone: Asia/Dhaka
           plugin_activity: yes
           plugin_activity_days: 14
