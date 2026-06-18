@@ -165,5 +165,3 @@
 <h4 align="center">Made with <img src="assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
 </div>
 
-
-
