@@ -95,7 +95,7 @@
 
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
-<!-- <img align='right' src='.github/assets/gojo.gif' height='980px'> -->
+<img align='right' src='.github/assets/gojo.gif' height='980px'>
 
 <p align="center">
   <br/><br/>
