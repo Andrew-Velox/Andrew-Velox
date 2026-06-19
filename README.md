@@ -103,10 +103,10 @@
   <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
   <img src=".github/assets/stats.svg" width="400px"/>
   <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
-  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
   <img width="400px" src=".github/assets/metrics-stats.svg" />
   <img width="400px" src=".github/assets/metrics-repository.svg" />
   <img width="400px" src=".github/assets/metrics-activity.svg" />
+  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
 </p>
 
 <br clear="both" />
