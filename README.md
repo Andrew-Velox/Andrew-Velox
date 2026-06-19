@@ -1,104 +1,100 @@
 <div align="center">
+  <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="name typing animation"/>
+  </picture>
+  <br />
+  <!-- ═══ NAME ══════════════════════════════════════════════════ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat"
+        alt="Andrew Velox typing animation" />
+  </picture>
 
-<!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="name typing animation"/>
-</picture>
-
-
-<br />
-<!-- ═══ NAME ══════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat"
-       alt="Andrew Velox typing animation" />
-</picture>
-
-<!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
-</picture>
-
+  <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
+  </picture>
 </div>
+
+
 
 <div align="center">
-<!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
-<a href="https://www.linkedin.com/in/mohabbatvlx/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://discord.com/users/mohabbat_v3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Discord-ffffff?style=flat-square&logo=discord&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@Veloxofcl">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/mohabbat404">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp;
-<a href="mailto:mohabbat.bd2020@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
-  </picture>
-</a>
-
-<hr />
-
-
+  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+  <a href="https://www.linkedin.com/in/mohabbatvlx/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=171717" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/mohabbat_v3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Discord-ffffff?style=flat-square&logo=discord&logoColor=171717" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Veloxofcl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/mohabbat404">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:mohabbat.bd2020@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=171717" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
+    </picture>
+  </a>
+  <hr />
 </div>
 
 
+<div>
+
+  <img align="right" width="250" src=".github/assets/samurai4.png">
+
+  ### 🤠 About Me
+
+  👨‍🦱 **Mohabbat** | 🎓 Final-year CSE Student @ Green University of Bangladesh
+  🕋 **Religion:** 🤍 Islam 🤍 | 🏠 **Base:** Dhaka (Born in Rajshahi), Bangladesh
+
+  - 💻 **Core Contributor:** at the [ziex-dev](https://github.com/ziex-dev).
+  - 🦀 **Currently building:** Rust tools.
+  - 🐧 **Environment:** Arch Linux + Hyprland.
+  - 💙 **Love to:** 💤.
+  - 🌐 **Languages:** 🇧🇩  | 🇺🇲  | 🇸🇦 
 
 
-<img align="right" width="250" src=".github/assets/samurai4.png">
 
-### 🤠 About Me
-
-👨‍🦱 **Mohabbat** | 🎓 Final-year CSE Student @ Green University of Bangladesh
-🕋 **Religion:** 🤍 Islam 🤍 | 🏠 **Base:** Dhaka (Born in Rajshahi), Bangladesh
-
-- 💻 **Core Contributor:** at the [ziex-dev](https://github.com/ziex-dev).
-- 🦀 **Currently building:** Rust tools.
-- 🐧 **Environment:** Arch Linux + Hyprland.
-- 💙 **Love to:** 💤.
-- 🌐 **Languages:** 🇧🇩  | 🇺🇲  | 🇸🇦 
-
-
-
+</div>
 
 ---
 
-<!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
+
 
 <img align='right' src='.github/assets/kenkankei_cmp.png' height='780px'>
 
@@ -113,11 +109,8 @@
   <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
+---
 
-<div>
-</div>
-
-<hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
 <br/>
 
@@ -203,13 +196,13 @@
 ---
 
 <div align="center">
-<h2 align="center">💻 Competitive programming 💻</h2>
-<br/>
+  <h2 align="center">💻 Competitive programming 💻</h2>
+  <br/>
 
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=radical)](https://codeforces.com/profile/yalniz)
-<br>
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=radical)](https://codeforces.com/profile/yalniz)
+  <br>
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=dark)](https://codeforces.com/profile/yalniz)
 
 </div>
 
