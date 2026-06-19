@@ -106,10 +106,10 @@
   <img width="400px" src=".github/assets/metrics-stats.svg" />
   <img width="400px" src=".github/assets/metrics-repository.svg" />
   <img width="400px" src=".github/assets/metrics-activity.svg" />
-  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
 </p>
 
 <br clear="both" />
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
 
 ---
 
