@@ -30,28 +30,6 @@
 
 </div>
 
-<div width="50%">
-<img align="right" width="150" src=".github/assets/gojo.gif" alt="gojo logo">
-
-<br />
-
-### 🤠 About Me :
-
- - 👨‍🦱 My name is `Mohabbat`
- - 🕋 My Religion `🤍 Islam 🤍`
- - 🏠 Live in `Dhaka, Bangladesh `
- - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `⚗️`
- - 🌐 Language
-   - 🇧🇩 Bangla
-   - 🇺🇲 English
-   - 🇸🇦 Arabic
-
-
----
-</div>
-
-<br />
 <div align="center">
 <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
 <a href="https://www.linkedin.com/in/mohabbatvlx/">
@@ -118,6 +96,31 @@
 </p> -->
 
 </div>
+
+
+
+<div width="50%">
+<img align="right" width="150" src=".github/assets/gojo.gif" alt="gojo logo">
+
+<br />
+
+### 🤠 About Me :
+
+ - 👨‍🦱 My name is `Mohabbat`
+ - 🕋 My Religion `🤍 Islam 🤍`
+ - 🏠 Live in `Dhaka, Bangladesh `
+ - 👶🏻 Born in `Rajshahi, Bangladesh`
+ - 💙 Love to `⚗️`
+ - 🌐 Language
+   - 🇧🇩 Bangla
+   - 🇺🇲 English
+   - 🇸🇦 Arabic
+
+
+---
+</div>
+
+<br />
 
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
