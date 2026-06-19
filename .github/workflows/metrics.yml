@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-        - name: Stats & Languages
+        - name: Stats
           uses: lowlighter/metrics@latest
           with:
             # Your GitHub token
@@ -27,11 +27,6 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             filename: .github/assets/metrics-stats.svg
             base: header, activity, community, repositories
-            plugin_languages: yes
-            plugin_languages_limit: 10
-            plugin_languages_details: percentage
-            plugin_languages_threshold: 0%
-            plugin_languages_ignored: 
             config_timezone: Asia/Dhaka
 
         - name: Activity Calendar
@@ -56,7 +51,10 @@ jobs:
             config_timezone: Asia/Dhaka
             plugin_followup: yes
             plugin_languages: yes
-            plugin_languages_ignored: html, css
+            plugin_languages_limit: 10
+            plugin_languages_details: percentage
+            plugin_languages_threshold: 0%
+            plugin_languages_ignored: html, css, JavaScript, TypeScript, Jupyter Notebook
 
             # plugin_projects_repositories: lowlighter/metrics/projects/1
 
