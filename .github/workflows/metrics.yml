@@ -47,7 +47,7 @@ jobs:
         - name: Repository Metrics
           uses: lowlighter/metrics@latest
           with:
-            template: repository
+            template: classic
             filename: .github/assets/metrics-repository.svg
             token: ${{ secrets.METRICS_TOKEN }}
             user: Andrew-Velox
@@ -55,6 +55,7 @@ jobs:
             plugin_lines: yes
             plugin_followup: yes
             plugin_projects: yes
+
             # plugin_projects_repositories: lowlighter/metrics/projects/1
 
         
