@@ -80,9 +80,9 @@
 
 
 <br />
-<img align="right" height="250px" src=".github/assets/gojo.gif" alt="gojo logo">
+<img align="right" width="150" src=".github/assets/gojo.gif" alt="gojo logo">
 
-<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1">
 
 ### 🤠 About Me :
 
@@ -96,11 +96,9 @@
    - 🇺🇲 English
    - 🇸🇦 Arabic
 
-
-</p>
+<br clear="both">
 
 ---
-<br />
 
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
