@@ -96,7 +96,7 @@
 
 
 
-<img align='right' src='.github/assets/kenkankei_cmp.png' height='750px'>
+<img align='right' src='.github/assets/kenkankei_cmp.png' height='350px'>
 
 <p align="center">
   <br/><br/>
