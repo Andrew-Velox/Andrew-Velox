@@ -79,27 +79,24 @@
 
 
 
-<br />
-<img align="right" width="150" src=".github/assets/gojo.gif" alt="gojo logo">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1">
+<img align="right" width="250" src=".github/assets/samurai4.png">
 
-### 🤠 About Me :
+### 🤠 About Me
 
- - 👨‍🦱 My name is `Mohabbat`
- - 🕋 My Religion `🤍 Islam 🤍`
- - 🏠 Live in `Dhaka, Bangladesh `
- - 👶🏻 Born in `Rajshahi, Bangladesh`
- - 💙 Love to `⚗️`
- - 🌐 Language
-   - 🇧🇩 Bangla
-   - 🇺🇲 English
-   - 🇸🇦 Arabic
+👨‍🦱 **Mohabbat** | 🎓 Final-year CSE Student @ Green University of Bangladesh
+🕋 **Religion:** 🤍 Islam 🤍 | 🏠 **Base:** Dhaka (Born in Rajshahi), Bangladesh
 
-<br clear="both">
+- 💻 **Core Contributor:** at the [ziex-dev](https://github.com/ziex-dev).
+- 🦀 **Currently building:** Rust tools.
+- 🐧 **Environment:** Arch Linux + Hyprland.
+- 💙 **Love to:** 💤.
+- 🌐 **Languages:** 🇧🇩  | 🇺🇲  | 🇸🇦 
+
+
+
 
 ---
-
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
 <img align='right' src='.github/assets/kenkankei_cmp.png' height='780px'>
