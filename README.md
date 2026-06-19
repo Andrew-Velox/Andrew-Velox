@@ -99,17 +99,18 @@
 ---
 
 <!-- <img align='right' src='https://counter.seku.su/c302?' height='980px'> -->
-<img align='right' src='.github/assets/kenkankei_cmp.png' height='780px'>
+
+<img align='right' src='.github/assets/kenkankei_cmp.png' width='380px'>
 
 <p align="center">
   <br/><br/>
-  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <img src=".github/assets/stats.svg" width="400px"/>
-  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
-  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
-  <img width="400px" src=".github/assets/metrics-stats.svg" />
-  <img width="400px" src=".github/assets/metrics-repository.svg" />
-  <img width="400px" src=".github/assets/metrics-activity.svg" />
+  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="350px">
+  <img src=".github/assets/stats.svg" width="350px"/>
+  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true" width="350px"/>
+  <img width="350px" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
+  <img width="350px" src=".github/assets/metrics-stats.svg" />
+  <img width="350px" src=".github/assets/metrics-repository.svg" />
+  <img width="350px" src=".github/assets/metrics-activity.svg" />
 </p>
 
 
