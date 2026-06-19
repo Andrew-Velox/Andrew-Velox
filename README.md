@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="name typing animation"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
   </picture>
   <br />
   <!-- ═══ NAME ══════════════════════════════════════════════════ -->
@@ -86,17 +86,17 @@
   - 🦀 **Currently building:** Rust tools.
   - 🐧 **Environment:** Arch Linux + Hyprland.
   - 💙 **Love to:** 💤.
-  - 🌐 **Languages:** 🇧🇩  | 🇺🇲  | 🇸🇦 
+  - 🌐 **Languages:** 🇧🇩  | 🇺🇸  | 🇸🇦 
 
-
+  <br clear="both" />
 
 </div>
 
 ---
 
+<br clear="both" />
 
-
-<img align='right' src='.github/assets/kenkankei_cmp.png' height='750px'>
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
 
 <p align="center">
   <br/><br/>
@@ -109,14 +109,15 @@
   <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
+<br clear="both" />
+
 ---
 
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
 <br/>
 
-<table>
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+  <tr>
     <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
     </td>
@@ -132,20 +133,19 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
     </td>
-	<td align="center"  width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
     </td>
-	<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
     </td>
-    
   </tr>
 
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
     </td>
-	  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
@@ -154,44 +154,43 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
-    </td> 
-	 <td align="center" width="96">
-		<img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
-	</td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
     </td>
   </tr>
- <tr>     
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-	</td>
-	<td align="center" width="96">
-	    <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
-	</td>
-</tr>
-</table>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
+    </td>
+  </tr>
 </table>
 
 <br/>
-</div>
 
 ---
 
