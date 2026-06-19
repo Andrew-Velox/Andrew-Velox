@@ -7,8 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="name typing animation"/>
 </picture>
 
-<br />
 
+<br />
 <!-- ═══ NAME ══════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -74,35 +74,15 @@
 
 <hr />
 
-  <!-- <div align="center">
-  <a href="https://www.facebook.com/mohabbat404">
-    <img src=".github/assets/Kaneki.Ken.full.3157977.gif" alt="Andrew-Velox's header">
-  </a>
-</div> -->
-<!-- <br>
-<p align=center>
-  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo"></a>&nbsp;
-  <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp; -->
-<!--   <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp; -->
-<!-- <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-</p> -->
-<!-- <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Andrew-Velox" />
-  <a href="https://github.com/Andrew-Velox"><img src="https://img.shields.io/github/followers/Andrew-Velox?label=followers&style=social"/></a>
-  </a> -->
-<!-- </p>
-<p align="center">
-</p> -->
 
 </div>
 
 
 
-<div width="50%">
-<img align="right" width="150" src=".github/assets/gojo.gif" alt="gojo logo">
-
 <br />
+<img align="right" height="250px" src=".github/assets/gojo.gif" alt="gojo logo">
+
+<p align="center">
 
 ### 🤠 About Me :
 
@@ -117,9 +97,9 @@
    - 🇸🇦 Arabic
 
 
----
-</div>
+</p>
 
+---
 <br />
 
 
