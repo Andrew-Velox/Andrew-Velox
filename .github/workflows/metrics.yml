@@ -43,6 +43,20 @@ jobs:
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
             config_timezone: Asia/Dhaka
+
+        - name: Repository Metrics
+          uses: lowlighter/metrics@latest
+          with:
+            template: repository
+            filename: .github/assets/metrics-repository.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            user: Andrew-Velox
+            repo: metrics
+            plugin_lines: yes
+            plugin_followup: yes
+            plugin_projects: yes
+            # plugin_projects_repositories: lowlighter/metrics/projects/1
+
         
     #   - uses: lowlighter/metrics@latest
     #     with:
