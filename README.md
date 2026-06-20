@@ -78,7 +78,7 @@
 
   ### About me
 
-  <div><img align="right" alt="GIF" src=".github/assets/samurai4.png"" width="250" height="100%" /></div>
+  <div><img align="right" alt="GIF" src=".github/assets/mona-whisper.gif"" width="250" height="100%" /></div>
 
   | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Computer Science & Engineering</p>  |
   | --------------------------------------------------------- |
@@ -89,7 +89,7 @@
   | 🦀 **Currently building:** Rust tools.                    |
   | 🐧 **Environment:** Arch Linux + Hyprland.                |
   | 💙 **Love to:** 💤.                                       |
-  | 🌐 **Languages:** 🇧🇩  | 🇺🇸  | 🇸🇦                          |
+  | 🌐 **Languages:** 🇧🇩  • 🇺🇸  • 🇸🇦                          |
 
 
 ---
