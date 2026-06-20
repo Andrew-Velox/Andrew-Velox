@@ -75,7 +75,7 @@
 
 <div>
 
-  <img align="right" width="250" src=".github/assets/samurai4.png">
+  <img align="right" width="250" src=".github/assets/mona-whisper.gif">
 
   ### 🤠 About Me
 
