@@ -78,7 +78,7 @@
 
   ### About me
 
-  <div><img align="right" alt="GIF" src=".github/assets/mona-whisper.gif"" width="200" height="100%" /></div>
+  <div><img align="right" alt="GIF" src=".github/assets/samurai4.png"" width="250" height="100%" /></div>
 
   | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Computer Science & Engineering</p>  |
   | --------------------------------------------------------- |
@@ -96,27 +96,6 @@
 
 </div>
 
-
-<!-- <div>
-
-  <img align="right" width="250" src=".github/assets/mona-whisper.gif">
-
-  ### 🤠 About Me
-
-  👨‍🦱 **Mohabbat** | 🎓 Final-year CSE Student @ Green University of Bangladesh
-  🕋 **Religion:** 🤍 Islam 🤍 | 🏠 **Base:** Dhaka (Born in Rajshahi), Bangladesh
-
-  - 💻 **Core Contributor:** at the [ziex-dev](https://github.com/ziex-dev).
-  - 🦀 **Currently building:** Rust tools.
-  - 🐧 **Environment:** Arch Linux + Hyprland.
-  - 💙 **Love to:** 💤.
-  - 🌐 **Languages:** 🇧🇩  | 🇺🇸  | 🇸🇦 
-
-  <br clear="both" />
-
-</div>
-
---- -->
 
 <br clear="both" />
 
