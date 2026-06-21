@@ -1,4 +1,33 @@
 <div align="center">
+  <img src=".github/assets/banner.png" alt="Profile Banner">
+  <h1>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
+  </h1>
+
+  <p align=center>
+  <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://discord.com/users/mohabbat_v3" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord Logo"></a>
+  &nbsp;
+  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg" alt="Facebook Logo"></a>
+  &nbsp;
+  <!-- <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" alt="Instagram Logo"></a>&nbsp; -->
+  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" alt="Twitter-x Logo"></a>
+  &nbsp;
+  <!-- <a href="https://www.youtube.com/@Veloxofcl" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube Logo"></a>&nbsp; -->
+  <!-- <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp; -->
+  <!-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
+<a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a>
+&nbsp;
+</p>
+</div>
+
+
+
+
+
+
+<!-- <div align="center"> -->
   <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
@@ -24,8 +53,13 @@
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
   </picture> -->
-</div>
+<!-- </div> -->
 
+<!-- <div align="center"> -->
+  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+  
+  <hr />
+<!-- </div> -->
 
 
 
@@ -38,62 +72,18 @@
 
   <div><img align="right" alt="GIF" src=".github/assets/mona-whisper.gif"" width="250" height="100%" /></div>
 
-  | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Computer Science & Engineering</p>  |
+  | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Final-year CSE Student </p>  |
   | --------------------------------------------------------- |
-  | 🎓 Final-year CSE Student                                 |
   | 🕋 **Religion:** 🤍 Islam 🤍                              |
-  | 🏫 Dhaka (Born in Rajshahi), Bangladesh                   |
+  | 🏫 Dhaka, Bangladesh                                      |
   | 💻 Core Contributor at the [ziex-dev](https://github.com/ziex-dev).                                                  |  
   | 🦀 **Currently building:** Rust tools.                    |
-  | 🐧 **Environment:** Arch Linux + Hyprland.                |
-  | 💙 **Love to:** 💤.                                       |
+  | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
+  | 💙 **Love to:** Code • Sleep • Sing.                                       |
   | 🌐 **Languages:** 🇧🇩  • 🇺🇸  • 🇸🇦                          |
 
 ---
 
-<div align="center">
-  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
-  <a href="https://www.linkedin.com/in/mohabbatvlx/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=171717" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/mohabbat_v3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Discord-ffffff?style=flat-square&logo=discord&logoColor=171717" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Veloxofcl">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/mohabbat404">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:mohabbat.bd2020@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=171717" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
-    </picture>
-  </a>
-  <hr />
-</div>
 
 
 </div>
