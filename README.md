@@ -70,7 +70,7 @@
 
   ### About me
 
-  <div><img align="right" alt="GIF" src=".github/assets/mona-whisper.gif"" width="250" height="100%" /></div>
+  <div><img align="right" alt="GIF" src=".github/assets/mona-whisper.gif"" width="200" height="100%" /></div>
 
   | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Final-year CSE Student </p>  |
   | --------------------------------------------------------- |
