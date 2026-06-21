@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/banner.png" alt="Profile Banner">
+  <img src=".github/assets/ken.gif" alt="Profile Banner">
   <h1>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
   </h1>
