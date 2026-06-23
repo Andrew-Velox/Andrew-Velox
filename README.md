@@ -3,8 +3,6 @@
   <h1>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
   </h1>
-  
-<a href="README.bn-BD.md"><img src="https://img.shields.io/badge/Lang-বাংলা-blue?style=for-the-badge" alt="বাংলা"></a>
   <p align=center>
   <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
   &nbsp;
