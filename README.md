@@ -178,9 +178,9 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
