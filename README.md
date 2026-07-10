@@ -79,7 +79,7 @@
   | 🦀 **Currently building:** Rust tools.                    |
   | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
   | 💙 **Love to:** Code • Sleep • Sing.                                       |
-  | 🌐 **Languages:** 🇧🇩  • 🇺🇸  • 🇸🇦                          |
+  | 🌐 **Languages:** 🇧🇩  • 🇺🇸                          |
 
 ---
 
