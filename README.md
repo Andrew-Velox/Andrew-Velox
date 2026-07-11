@@ -78,7 +78,7 @@
   | 💻 Core Contributor at the [ziex-dev](https://github.com/ziex-dev).                                                  |  
   | 🦀 **Currently building:** Rust tools.                    |
   | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
-  | 💙 **Love to:** Code • Sleep • Sing.                                       |
+  | 💙 **Love to:** Sleep                    |
   | 🌐 **Languages:** 🇧🇩  • 🇺🇸                          |
 
 ---
