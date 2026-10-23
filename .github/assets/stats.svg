@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohabbat&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 258, Total Commits  : 2254, Total PRs: 57, Total Issues: 4, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 258, Total Commits  : 2254, Total PRs: 58, Total Issues: 5, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.85781749358512;
+        stroke-dashoffset: 91.95271136710475;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >57</text>
+      >58</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >4</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >13</text>
+      >14</text>
     </g>
   </g>
     </svg>
