@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohabbat&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 278, Total Commits  : 2325, Total PRs: 58, Total Issues: 5, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 278, Total Commits  : 2327, Total PRs: 58, Total Issues: 5, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.65330415471507;
+        stroke-dashoffset: 90.64172309420232;
       }
     }
   
